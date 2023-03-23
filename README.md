@@ -173,7 +173,3 @@ We used malloc and free and are not allowed to use any other function from man m
 
 ## AUTHORS
 
-#### KIPRONOH VINCENT
-
-#### VALERIE-JERONO
-
