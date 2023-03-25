@@ -79,20 +79,6 @@ We used malloc and free and are not allowed to use any other function from man m
 <hr>
 
 <h3>
-  Technologies Used
-</h3>
-<ul>
-  <li>Language: C programming language, Bash</li>
-  <li>Operating System: Ubuntu 14.04 LTS (Trusty64)</li>
-  <li>Style: berry</li>
-  <li>Compiler: gcc</li>
-  <li>Version Control: Git</li>
-</ul>
-<hr>
-<h3>
-  Author
-</h3>
-<p>Michael Sosa <a href="https://www.linkedin.com/in/michael-sosa/" rel="nofollow">Linkedin</a> || <a href="https://twitter.com/micael_sosa" rel="nofollow">Twitter: @micael_sosa</a></p>
 <hr># The Monty language
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
